@@ -1,9 +1,9 @@
 {
-  "bgColor" : "ff4763",
+  "bgColor" : "red",
   "width" : 300,
   "height" : 160,
   "borderWidth" : 3,
-  "borderWidth" : "0x000000",
+  "borderColor" : "0xff2200",
   "trianglePointX" : 240,
   "trianglePointY" : 50,
   "content" : "孩子的教育资源V1.1.pptx"
